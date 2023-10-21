@@ -1,0 +1,66 @@
+/* 
+index.html
+    Created on : 18-10-2023, 18:17:15
+    Author     : Dilan Gatica (bPleier)
+*/
+
+.div{
+    text-align:center;
+    align-content:center;
+    color:whitesmoke;
+    font-family:times new roman;
+}
+.body {
+
+    background-color: darkcyan;
+    align-content:center;
+    font-family:times new roman;
+}
+
+h1 {
+
+    color: red;
+    align-content:center;
+    font-family:times new roman;
+    text-align: center;
+
+}
+p {
+    color:white;
+    align-content:center;
+    font-family:times new roman;
+    font-size:20px;
+}
+.table{
+    border:2px dashed #000;
+    display:flex;
+    align-items:center;
+    align-content:center;
+    justify-content:center;
+    text-align:center;
+    font-family:times new roman;
+    width:100%;
+
+}
+a{
+    color:white;
+}
+a:hover{
+    color:blue;
+}
+.th{
+    size:20px;
+    color:black;
+    font-family:times new roman;
+}
+.th2{
+    size:15px;
+    font-family:times new roman;
+
+}
+.p1{
+    font-size:30px;
+    color:black;
+    text-decoration:underline; 
+
+}

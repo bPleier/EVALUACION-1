@@ -1,0 +1,20 @@
+/* 
+index.html
+    Created on : 18-10-2023, 20:19:33
+    Author     : Dilan Gatica (bPleier)
+*/
+
+
+.footer{
+    background-color:black;
+    color:white;
+    width:100%;
+    font-size:25px;
+    height:100px;
+    display:flex;
+    align-items:center;
+    align-content:center;
+    justify-content:center;
+    text-align:center;
+    border: white solid;
+}
